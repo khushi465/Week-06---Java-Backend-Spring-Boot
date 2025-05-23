@@ -1,12 +1,13 @@
-// GreetingAppApplication.java
-package com.example.greetingapp;
+package com.example.employeepayrollapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GreetingAppApplication {
+public class EmployeePayrollAppApplication {
+
 	public static void main(String[] args) {
-		SpringApplication.run(GreetingAppApplication.class, args);
+		SpringApplication.run(EmployeePayrollAppApplication.class, args);
 	}
+
 }
