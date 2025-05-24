@@ -1,10 +1,10 @@
-package com.example.EmployeePayrollApp;
+package com.example.AddressBook;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EmployeePayrollAppApplicationTests {
+class AddressBookApplicationTests {
 
 	@Test
 	void contextLoads() {
